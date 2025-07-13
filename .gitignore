@@ -1,0 +1,29 @@
+# Visual Studio files
+*.vcxproj.user
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.idb
+*.log
+*.tlog
+*.recipe
+*.lastbuildstate
+*.sarif
+*.CppClean.log
+*.FileListAbsolute.txt
+CodeAnalysisResultManifest.txt
+
+# Build directories
+x64/
+Debug/
+Release/
+.vs/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Generated files
+*.exe.recipe
